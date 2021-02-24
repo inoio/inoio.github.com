@@ -10,7 +10,7 @@
   var iframeHost =
     options.iframeHost !== undefined
       ? options.iframeHost
-      : "https://assets.digitalclimatestrike.net";
+      : "https://inoio.github.io/digital-climate-strike";
   var websiteName = options.websiteName || null;
   var footerDisplayStartDate =
     options.footerDisplayStartDate || new Date(2021, 0, 31); // January 31st, 2021 - arbitrary date in the past
